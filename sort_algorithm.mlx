@@ -1,11 +1,11 @@
-PREGUNTA 1 DE LA SEMANA 10
+%{PREGUNTA 1 DE LA SEMANA 10
 Introduce la matriz A: [ 4 1 2; 2 4 -1; 1 1 -3]
 Introduce el vecto columna b: [9 ; -5; -9]
 Introduce los parametros w: 1.25
 Introduce la tolerancia: 4*0.00001
 Introduce la aproximacion inicial: [0 ; 0 ;0]
 Introduce el numero maximo de iteraciones: 15
-%Algoritmo de sor
+Algoritmo de sor%}
 clc
 clear all
 A = input('Introduce la matriz A: ');
